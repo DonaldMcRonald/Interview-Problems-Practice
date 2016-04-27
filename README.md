@@ -2,7 +2,7 @@
 
 This repository is a compiled list of interview problems that people have encountered in the past.
 
-**Organization**
+### Organization
 
 * The root directory contains directories that correspond to specific positions.  
 
@@ -10,9 +10,9 @@ This repository is a compiled list of interview problems that people have encoun
 
 * Within those are the problems.
 
-**Please follow the following rules if you wish to contribute:**
+### Please follow the following rules if you wish to contribute:
 
-1. Please do not add any problems you are not allowed to disclose (aka you signed an NDA with that company).  
+1. Please **do not** add any problems you are not allowed to disclose (aka you signed an NDA with that company).  
 
 2. Please create two separate files, one with the question, and the other with the solution (if you have it). This way people can have a chance of actually attempting the problems w/o seeing the solution immediately.
 
