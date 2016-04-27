@@ -10,6 +10,31 @@ This repository is a compiled list of interview problems that people have encoun
 
 * Within those are the problems.
 
+
+## Interview Problems
+
+### Hardware
+
+
+### PM
+
+
+### SWE
+
+- [Facebook](https://github.com/DonaldMcRonald/Interview-Problems-Practice/tree/master/SWE/Facebook)
+- [Tableau](https://github.com/DonaldMcRonald/Interview-Problems-Practice/tree/master/SWE/Tableau)
+- [HearsaySocial](https://github.com/DonaldMcRonald/Interview-Problems-Practice/tree/master/SWE/HearsaySocial)
+- [Amazon]()
+- [Mozilla]()
+- [LinkedIn]()
+- [BrowserStack]()
+- [Twitter]()
+- [Slack]()
+
+
+
+## Contributing to the repo
+
 **Please follow the following rules if you wish to contribute:**
 
 1. Please do not add any problems you are not allowed to disclose (aka you signed an NDA with that company).  
